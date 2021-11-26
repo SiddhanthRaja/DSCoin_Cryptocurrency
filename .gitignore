@@ -1,0 +1,12 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Miscellaneous Files
+*.txt
+*.class
+
+
