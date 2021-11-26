@@ -6,7 +6,8 @@
 out/
 
 # Miscellaneous Files
-*.txt
+output.txt
+readme.txt
 *.class
 
 
